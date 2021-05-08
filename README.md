@@ -9,9 +9,10 @@ and make it more accessible.
 * Organizing  CSS to follow semantic structure.
 
 ## Project screen shots
-![Hire and Nav] (assets/images/hiroandnavgit.png)
+
+![alt text] (assets/images/hiroandnavgit.png "Hire and Nav")
 Main part
-![main part] (assets/images/mainpart.png)
+![alt text] (assets/images/mainpart.png "Main part")
 
 # Project web link
 [web site link](https://lakicode.github.io/MyHoriseon/)
