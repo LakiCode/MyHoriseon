@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/** header **/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +40,13 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/** footer **/
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
 
 a {
     color: #ffffff;
@@ -49,7 +56,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/** hiro **/
 .hero {
     height: 800px;
     width: 100%;
@@ -98,8 +105,7 @@ section {
     font-size: 36px;
 }
 
-
-/** side part **/
+/** side bar **/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -125,10 +131,4 @@ section {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
 }
