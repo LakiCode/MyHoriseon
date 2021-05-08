@@ -10,9 +10,9 @@ and make it more accessible.
 
 ## Project screen shots
 
-![alt text] (assets/images/hiroandnavgit.png "Hire and Nav")
+![alt text](assets/images/heroandnavgit.png "Hire and Nav")
 Main part
-![alt text] (assets/images/mainpart.png "Main part")
+![alt text](assets/images/mainpart.png "Main part")
 
-# Project web link
+## Project web link
 [web site link](https://lakicode.github.io/MyHoriseon/)
