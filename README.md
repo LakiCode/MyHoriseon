@@ -10,7 +10,7 @@ and make it more accessible.
 
 ## Project screen shots
 
-![alt text](assets/images/heroandnavgit.png "Hire and Nav")
+![alt text](assets/images/heroandnav.png "Hire and Nav")
 Main part
 ![alt text](assets/images/mainpart.png "Main part")
 
